@@ -1,0 +1,16 @@
+===== Escaneo: Thu Apr 24 07:14:09 PM CST 2025 =====
+Objetivo: facebook.com | Puertos: 6 a 10
+
+Puerto 6 CERRADO o INACCESIBLE
+Puerto 7 CERRADO o INACCESIBLE
+Puerto 8 CERRADO o INACCESIBLE
+Puerto 9 CERRADO o INACCESIBLE
+Puerto 10 CERRADO o INACCESIBLE
+===== Escaneo: Thu Apr 24 07:14:27 PM CST 2025 =====
+Objetivo: facebook.com | Puertos: 6 a 10
+
+Puerto 6 CERRADO o INACCESIBLE
+Puerto 7 CERRADO o INACCESIBLE
+Puerto 8 CERRADO o INACCESIBLE
+Puerto 9 CERRADO o INACCESIBLE
+Puerto 10 CERRADO o INACCESIBLE
