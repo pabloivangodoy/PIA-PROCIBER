@@ -1,0 +1,14 @@
+INFO:root:Verificada IP: 95.85.47.10
+WARNING:root:Contraseña débil verificada.
+INFO:root:Inicio de grabación de pantalla.
+INFO:root:Grabación completada.
+ERROR:root:Error Shodan - Puerto 80: Access denied (403 Forbidden)
+INFO:root:Verificada IP: 165.22.229.50
+INFO:root:Inicio de grabación de pantalla.
+INFO:root:Grabación completada.
+ERROR:root:Error Shodan - Puerto 80: Access denied (403 Forbidden)
+INFO:root:Verificada IP: 80.94.95.112
+INFO:root:Inicio de grabación de pantalla.
+INFO:root:Grabación completada.
+ERROR:root:Error Shodan - Puerto 80: Access denied (403 Forbidden)
+ERROR:root:Error Shodan - Puerto 80: Access denied (403 Forbidden)
