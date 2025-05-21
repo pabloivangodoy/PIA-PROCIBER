@@ -1,0 +1,15 @@
+Tarea: Archivos_Ocultos
+Fecha: 2025-05-20_23-09-24
+Hash: 6036021c61d56929381cd5634473132f398768bb2469ac5d7d864b80ace011b8
+Ruta: C:\Users\godoy\Pictures\PIA\reportes\Archivos_Ocultos_2025-05-20_23-09-24.txt
+
+=== Resultado ===
+Directory: C:\Windows
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d--h--          4/1/2024   1:26 AM                ELAMBKUP                                                             
+d--hs-         5/20/2025   3:41 PM                Installer                                                            
+d--h--          4/1/2024   1:26 AM                LanguageOverlayCache                                                 
+-arh--          4/1/2024   1:22 AM            670 WindowsShell.Manifest
